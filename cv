@@ -1,0 +1,86 @@
+---
+title: "Marcelo Fabian Larroulet Metzger"
+author: MFLM
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: true
+---
+
+# Aside
+
+## Contacto {#contact}
+
+-   <i class="fa fa-envelope"></i> [mflmetzger\@gmail.com](mailto:mflmetzger@gmail.com){.email}
+-   <i class="Web"></i> [web site](https://mltasaciones.com/)
+-   <i class="fab fa-linkedin-in"></i> [Linkedin](https://www.linkedin.com/in/marcelo-larroulet-0389aa134/)
+-   <i class="fa fa-phone"></i> +598 91 307 256
+-   Puede contactar por cualquiera de las vías.
+
+## Capacidades {#skills}
+
+-   Creador de bases de datos relacionales y geoespaciales.
+
+-   Gesotadista
+
+-   Analista de mercados y datos (especializado en rubro inmobiliario).
+
+-   Valuador Internacional.
+
+-   Capacitador internacional en "SIG" y "Avaluos"
+
+## Disclaimer {#disclaimer}
+
+# Main
+
+## Marcelo Larroulet Metzger {#title}
+
+### Actualmente Data Scientist Consultor/Formador/Tasador/Analista de Datos y Mercados
+
+## Perfil
+
+Amplia experiencia en análisis, recolección y tratamiento de datos, esto se debe a que mi profesión me requiere una exigencia en ello, con el transcurso del tiempo me he capacitado ampliamente para fusionar lo aprendido al tratamiento de datos y así obtener mejores resultados más óptimos y mayor calidad.
+
+## Formacion
+
+Universitario= Blas Pascal: El título de Martillero y Corredor Púbico, es un título habilitante para ejercer el Corretaje, Auxiliar de Justicia, Perito y Tasador, dentro de estas ramas me especialice en la rama de Tasador, donde he recorrido un largo camino hasta llegar al punto de dar capacitaciones internacionales a países como : Colombia, México, Argentina, donde dichos cursos que he dictado son relacionados al tratamiento de datos, geoestadística entre otros. Abril 2010-Mayo 2015
+
+## Formacion complementaria
+
+Analisis de datos. Sistemas de Informacion Geografica. Lenguaje SQL. Lenguaje R. Avaluos Internacionales. Negocios. Empresas. A lo largo de mi profesion me dedique a capacitarme ampliamente, incorporar y aplicar estas nuevas capacidades.
+
+![Porcentaje de Aprendizaje](C:%5CUsers%5CMarcelo%5CDesktop%5Cgraf.jpeg){width="250px"}
+
+Universidades e Instituciones donde se realizaron las capacitaciones
+
+-Inmobiliario = Colegios profesionales (Argentina).
+Valuatorio = Instituciones Valuatorias (Colombia, Argentina, Paraguay, Mexico).
+Financiera, Economia, Estadistica = Universidad Austral (ARG), Universidad Erasmus (Holanda), IBM, Universidad de los andes (Colombia), Universidad Cema (ARG), UBA (ARG), Universidad autonoma (Mexico), Universidad Rotterdam (Holanda)
+Analisis de Datos/programacion = Undemy, IBM, Google.
+Sistemas de Informacion geografica = UBA (Arg), Universidad Yonsei(Seúl Corea del Sur), Universidad de Toronto(Canadá).
+
+
+## Manejo de Software
+
+*QGIS.* HeidiSQL. *MySql.* RStudio. *Excel.* Powerbi. *Tableu.* Google Earth Pro. *Paquete Office.* Windows. ![powerbi](C:%5CUsers%5CMarcelo%5CDesktop%5Cpower.png){width="20px"} ![windows](C:%5CUsers%5CMarcelo%5CDesktop%5Cwin.png){width="20px"} ![office](C:%5CUsers%5CMarcelo%5CDesktop%5Cofice.jpg){width="20px"} ![google](C:%5CUsers%5CMarcelo%5CDesktop%5Cgoogle.jpeg){width="20px"} ![tableu](C:%5CUsers%5CMarcelo%5CDesktop%5Ctableau.png){width="20px"} ![Excel](C:%5CUsers%5CMarcelo%5CDesktop%5Cexcel.jpg){width="20px"} ![HeidiSql](C:%5CUsers%5CMarcelo%5CDesktop%5Cheidi.jpg){width="20px"} ![MySql](C:%5CUsers%5CMarcelo%5CDesktop%5Cmysql.png){width="20px"} ![RStudio](C:%5CUsers%5CMarcelo%5CDesktop%5Crstudio.png){width="20px"} ![qgis](C:%5CUsers%5CMarcelo%5CDesktop%5Cqgis.png){width="20px"}
+
+## Certificaciones
+
+ISO/IEC: CERTIFICACIONES: ISO/IEC 17000, ISO/IEC 17024 e IVSC, sobre "AVALUOS DE MAQUINARIA FIJA, EQUIPOS Y MAQUINARIA MOVIL" No. INTER -- AR 0001 No. MYE-0274. "ESPECIALIDAD DE AVALÚOS DE INMUEBLES URBANOS". No. INTER - AR 0001 No. URB -- 1218. IBM: Data Analytics Essentials, este certificado forma parte de un Certificado profesional de IBM, Data Analytics witch Excel and R, el cual estoy realizando. Certificado profesional de Análisis de Datos de Google.
+
+## Aptitudes y Experiencia
+
+Meticuloso, Analítico, Curioso, Perfeccionista, Investigador, Colaborador, Puntual, Comprometido, Creativo, Me gustan los nuevos desafíos de aprendizaje y aplicación laboral.
+
+Gerente de Sucursal • Casa Torrens SRL. Como gerente tenía que tener trato directo con proveedores, manejo de software interno con procesamiento de datos y cargas, preparado de documentación y presentación para licitaciones y compras directas, manejo de dinero entre otras tareas relevantes.
+
+Director • MLTasaciones Como director de MLTasaciones realizo Análisis y tratamiento de datos inmobiliarios, creando bases de datos tanto relacionales como geoespaciales, analisis y estudios de mercado, geoestadista, tasador de bienes muebles e inmuebles, procesamiento de datos en SIG.
+
+Control y gestion de obras edilicias • Contratacion por obra, desemepeñando el seguimiento del avance de obra, compras de materiales y contrataciones de mano de obra como asi tambien de profesionales
+
+
+--------------------------------------------------------------------------------
+
+NOTE 
+--------------------------------------------------------------------------------
+Este curriculum fue realizado y programado, netamente en RSTUDIO y MARKDOWN
